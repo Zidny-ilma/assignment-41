@@ -11,7 +11,7 @@ Daftar Isi:
 - [Deskripsi](#Deskripsi-Data-Walmart)
 - [Tugas](#Penjelasan-Tugas)
 - [Fitur](#Fitur-Yang-Digunakan)
-- [Tutorial[(#Cara Menggunakan Dashboard)
+- [Tutorial](#Cara Menggunakan Dashboard)
 
 
 **Deskripsi Data Walmart:**
