@@ -9,7 +9,7 @@ batch : 35
 daftar isi:
 -
 - [Deskripsi](#Deskripsi-Data-Walmart)
-- [Tugas](Penjelasan-Tugas)
+- [Tugas](#Penjelasan-Tugas)
 
 
 **Deskripsi Data Walmart:**
