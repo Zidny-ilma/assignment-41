@@ -10,6 +10,7 @@ daftar isi:
 -
 - [Deskripsi](#Deskripsi-Data-Walmart)
 - [Tugas](#Penjelasan-Tugas)
+- [Fitur](#Fitur-Yang-Digunakan)
 
 
 **Deskripsi Data Walmart:**
@@ -32,7 +33,7 @@ Tugas ini untuk melatih membuat dashboard interaktif dengan menggunakan streamli
 - tanggal pembelian
 - id pelanggan
 
-**Fitur yang digunakan:**
+**Fitur Yang Digunakan:**
 ---
 untuk visualisasi menggunakan:
 - line chart: untuk mengetahui trend pelanggan dan trend penjualan di walmart
