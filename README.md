@@ -37,5 +37,12 @@ Tugas ini untuk melatih membuat dashboard interaktif dengan menggunakan streamli
 ---
 untuk visualisasi menggunakan:
 - line chart: untuk mengetahui trend pelanggan dan trend penjualan di walmart
-- piw chart: untuk mengetahui komposisi perbandingan setiap kategori dari jenis kelamin, kategori produk dan penggunaan diskon
+- pie chart: untuk mengetahui komposisi perbandingan setiap kategori dari jenis kelamin, kategori produk dan penggunaan diskon
 - bar chart: untuk mengetahui distribusi dari rentang usia dan metode pembayaran
+
+untuk sisi kiri dashboard:
+- menggunakan fungsi dari streamlit yaitu st.sidebar()
+
+untuk filter:
+- menggunakan multiselect()
+- sehingga user bisa memilih filter apa yang ingin ditampilkan
